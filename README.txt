@@ -1,1 +1,3 @@
-Just empty file
+Just empty file.
+
+Another line of text.
