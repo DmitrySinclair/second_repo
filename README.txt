@@ -1,5 +1,5 @@
 Just empty file.
 
-Another line of text.
+Another empty line of text.
 
 Next change
