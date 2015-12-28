@@ -1,4 +1,4 @@
-Just empty file.
+Just really empty file.
 
 Another line of text.
 
